@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Sakshi singh",
+        "age": 25,
+        "email": "sakshisingh123@gmail.com",
+        "pin": 7301,
+        "accountNo": "1234",
+        "balance": 5300
+    },
+    {
+        "name": "DHEERAJ KUMAR",
+        "age": 25,
+        "email": "dheerajmaurya0007@gmail.com",
+        "pin": 2001,
+        "accountNo": "v7D88c$",
+        "balance": 4000
+    },
+    {
+        "name": "SAKSHI SINGH",
+        "age": 18,
+        "email": "sakshisingh123@gmail.com",
+        "pin": 4561,
+        "accountNo": "Y1S7W239",
+        "balance": 0
+    },
+    {
+        "name": "Sakshi singh",
+        "age": 18,
+        "email": "sakshisingh12@gmail.com",
+        "pin": 4561,
+        "accountNo": "UKAS97V9",
+        "balance": 9
+    },
+    {
+        "name": "Rina singh",
+        "age": 39,
+        "email": "",
+        "pin": 1212,
+        "accountNo": "A3WNFTSW",
+        "balance": 100
+    }
+]
